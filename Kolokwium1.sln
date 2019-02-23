@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolokwium1", "Kolokwium1\Kolokwium1.csproj", "{AA3E2371-491A-4CB9-A37E-70FD2BE1AD30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolokwium1Test", "Kolokwium1Test\Kolokwium1Test.csproj", "{D1232AB4-99AA-4470-ABA2-F1C8107C176C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{AA3E2371-491A-4CB9-A37E-70FD2BE1AD30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA3E2371-491A-4CB9-A37E-70FD2BE1AD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA3E2371-491A-4CB9-A37E-70FD2BE1AD30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1232AB4-99AA-4470-ABA2-F1C8107C176C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1232AB4-99AA-4470-ABA2-F1C8107C176C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1232AB4-99AA-4470-ABA2-F1C8107C176C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1232AB4-99AA-4470-ABA2-F1C8107C176C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
